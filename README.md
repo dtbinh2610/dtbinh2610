@@ -1,7 +1,7 @@
 # Đỗ Thanh Bình 
 
 I'm a **software engineer** on the journey of growing my skills
-(https://github.com/dtbinh2610/dtbinh2610/blob/main/readme_banner.png)
+![Design and development](https://github.com/dtbinh2610/dtbinh2610/blob/main/readme_banner.png)
 ## Skills and Experience
 * <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
