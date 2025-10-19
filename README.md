@@ -1,5 +1,7 @@
 # Đỗ Thanh Bình 
+
 I'm a **software engineer** on the journey of growing my skills
+(https://github.com/dtbinh2610/dtbinh2610/blob/main/readme_banner.png)
 ## Skills and Experience
 * <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
@@ -17,4 +19,5 @@ I'm a **software engineer** on the journey of growing my skills
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dtbinh2610)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dtbinh2610)](https://github.com/anuraghazra/github-readme-stats)
+
 
