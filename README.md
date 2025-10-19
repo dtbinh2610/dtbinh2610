@@ -1,17 +1,15 @@
-## Hi there 👋
+# Đỗ Thanh Bình 
+I'm a **software engineer** on the journey of growing my skills
+## Skills and Experience
+*<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="40" height="40"> REACT 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dtbinh2610)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**dtbinh2610/dtbinh2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning IELTS  
+- 📫 How to reach me: dtbinh2610@gmail.com  
+- 😄 Pronouns: Binh 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dtbinh2610)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dtbinh2610)](https://github.com/anuraghazra/github-readme-stats)
+
