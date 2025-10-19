@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/dtbinh2610/dtbinh2610/blob/main/readme_banner.png" alt="Do Thanh Binh Banner" />
 </p>
+
 ## Skills and Experience
 * <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
